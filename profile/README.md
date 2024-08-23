@@ -10,7 +10,7 @@
 -->
 
 <div align="center">
-  <h2>📖 LecPick 📖</h2>
+  <h1>📖 LecPick 📖</h1>
 </div>
 
 ![KakaoTalk_Photo_2024-08-24-07-38-01](https://github.com/user-attachments/assets/e8ac0d5f-dbba-4d8d-b7a8-596d75c8b5f2)
