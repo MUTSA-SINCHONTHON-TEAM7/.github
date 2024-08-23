@@ -18,7 +18,22 @@ LecPick
 내용 입력
 
 # 기술 스택
-내용 입력
+<div>
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+</div>
 
 # 팀원 소개
-내용 입력
+## 기획, 디자인
+김가을
+## 프론트엔드
+강민석, 박유정, 이제원
+## 백엔드
+김민우, 김태경, 이준영
+
+# ERD
+![image](https://github.com/user-attachments/assets/30db8f70-032b-4561-b550-c353e5b41d9f)
+
+# API 명세서
+https://rocky-feverfew-926.notion.site/API-0b6a729357a54e90992640098922e677
